@@ -1,13 +1,13 @@
 PATH
   remote: .
   specs:
-    CapicuaGenMelchior (0.0.3)
+    CapicuaGenMelchior (0.0.4)
       CapicuaGen (~> 0.0, >= 0.0.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    CapicuaGen (0.0.2)
+    CapicuaGen (0.0.4)
       activesupport (~> 2.3, >= 2.3.18)
       nokogiri (~> 1.6, >= 1.6.7)
       uuidtools (~> 2.1, >= 2.1.5)

@@ -60,4 +60,7 @@ Para más información consultar http://www.gnu.org/licenses/lgpl.html
   spec.add_development_dependency "bundler", "~> 1.11"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_runtime_dependency 'CapicuaGen','>=0.0.1','~> 0.0'
+
+
+      spec.required_ruby_version = '>= 2.0.0'
 end
