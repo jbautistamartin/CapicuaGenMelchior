@@ -3,15 +3,15 @@
 CapicuaGen es un software que ayuda a la creación automática de
 sistemas empresariales a través de la definición y ensamblado de
 diversos generadores de características. Melchior es un conjunto de
-                                        generadores de caracteristicas de ejemplo pertenecientes a CapicuaGen
+                                        generadores de características de ejemplo pertenecientes a CapicuaGen
                                         que se ocupa entre otras cosas de definir las clase para manejar entidades.
 
-El proyecto fue iniciado por José Luis Bautista Martin, el 6 de enero
-del 2016.
+El proyecto fue iniciado por José Luis Bautista Martín, el 6 de enero
+de 2016.
 
 Puede modificar y distribuir este software, según le plazca, y usarlo
 para cualquier fin ya sea comercial, personal, educativo, o de cualquier
-índole, siempre y cuando incluya este mensaje, y se permita acceso el
+índole, siempre y cuando incluya este mensaje, y se permita acceso al
 código fuente.
 
 Este software es código libre, y se licencia bajo LGPL.
@@ -47,7 +47,7 @@ CapicuaGen  permite comenzar a trabajar con él desde el mismo momento en que es
 
 Se crearan los siguientes archivos:
 
-* generator.rb: Ejemplo de un generador de codigo
+* generator.rb: Ejemplo de un generador de código
 * GemFile: Archivo de configuración de depencias para bundler .
 * instnwnd.sql: Ejemplo de base de datos NorthWind, para Microsoft SQL Server
 
